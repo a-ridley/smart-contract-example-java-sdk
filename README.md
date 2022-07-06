@@ -5,3 +5,6 @@ Example provides you with a solidity contract and the json file that is produced
 Hedera Docs: https://docs.hedera.com/guides/getting-started/try-examples/deploy-your-first-smart-contract
 
 Please note the test account and private key that have been provided is for testing purposes only. Do not post your private key in public places.
+## How to Run
+Project was built using the eclipse ide.
+If running in vscode, you must be in the lib directory to run the project.
